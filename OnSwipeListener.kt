@@ -11,7 +11,7 @@ import kotlin.math.abs
  * Created by SungBin on 2020-05-11.
  */
 
-class OnSwipeListener(ctx: Context) : OnTouchListener {
+open class OnSwipeListener(ctx: Context) : OnTouchListener {
 
     private val SWIPE_THRESHOLD = 100
     private val SWIPE_VELOCITY_THRESHOLD = 100
