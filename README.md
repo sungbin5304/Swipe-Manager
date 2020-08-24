@@ -3,7 +3,7 @@ Swipe Manager for Android.
 
 # Usage
 ```kotlin
-view.setOnTouchListener(object : OnSwipeTouchListener(context!!) {
+view.setOnTouchListener(object : OnSwipeListener(context!!) {
   override fun onSwipeLeftToRight() {
     //TODO
   }
