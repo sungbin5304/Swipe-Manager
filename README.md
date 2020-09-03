@@ -1,3 +1,8 @@
+# Deprecated
+> goto [AndroidUtils](https://github.com/sungbin5304/AndroidUtils)
+
+-----
+
 # Swipe Manager
 Swipe Manager for Android.
 
